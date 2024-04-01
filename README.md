@@ -1,13 +1,23 @@
-# YOUTUBE SHORTS CONTENT GENERATION
+# YOUTUBE CONTENT GENERATION AGENT
 Made by: [Aleen Dhar](https://www.linkedin.com/in/aleendhar/) and [Shivam Singh](https://www.linkedin.com/in/shivam-singh-142a03257/)
 
+The   YOUTUBE CONTENT GENERATION AGENT uses Fetch.ai's uagent technology to automatically create Image , Story and an Audio narration of the story.
+
+The  agent is ready to be integrated with DeltaV
+
+At first we were tasked with just itegrating a huggingface api with uagents and integrating it with DeltaV, but later we thought of creating something that is has a real business usecase.
+So we integrated 3 more APIs Cloudinary Google Gemini, ElevenLabs and Cloudinary. 
+Elevenlabs can create synthetic voice indistinguishible from a real human voice. 
+Cloudinary is used to store the images and audio files online so that we can pass the link to the users in DeltaV
 
 ## Images that it creates 
 ![chrome_KTvdvWXwK9](https://github.com/AleenDhar/Youtube-shorts-creation/assets/86429480/fd083306-653d-479a-ad79-3fe89128f19d)
 
-## audios that it created
+## Audio that it created
 [audio.webm](https://github.com/AleenDhar/Youtube-shorts-creation/assets/86429480/d149bcdc-0dda-410e-8ac8-5efda6a0521c)
 
+## Working on DeltaV
+![chrome_8i7w3JbuAG](https://github.com/AleenDhar/Youtube-shorts-creation/assets/86429480/8a300920-08f0-4a8c-a5ac-5496a42d17a6)
 
 
 ## Environment Setup:
