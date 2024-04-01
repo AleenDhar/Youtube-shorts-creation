@@ -13,6 +13,23 @@ Cloudinary is used to store the images and audio files online so that we can pas
 ## Images that it creates 
 ![chrome_KTvdvWXwK9](https://github.com/AleenDhar/Youtube-shorts-creation/assets/86429480/fd083306-653d-479a-ad79-3fe89128f19d)
 
+## Story that it generated
+In the ethereal void, a colossal battle raged. Gojo Satoru, the blindfolded sorcerer supreme, stood unyielding against the monstrous form of Sukuna, the King of Curses.
+
+Gojo's eyes, normally sealed behind his iconic blindfold, crackled with celestial energy. His Limitless technique distorted the very fabric of space, creating an impenetrable wall around him. Sukuna, his grotesque body adorned with cursed markings, snarled in frustration.
+
+As the clash intensified, Gojo's curses danced through the void, their shadowy forms seeking to devour Sukuna. The King of Curses responded with his own cursed techniques, unleashing a torrent of darkness and malevolence.
+
+Sukuna's fingers turned into sharp claws, each imbued with a lethal curse. He lunged at Gojo, but the sorcerer's Infinity technique effortlessly repelled his attacks. Limitless became an absolute barrier, preventing even the slightest contact.
+
+Undeterred, Sukuna summoned a vast army of cursed spirits. They swarmed Gojo relentlessly, but the Limitless barrier held firm. With a flick of his wrist, Gojo unleashed a devastating shockwave, scattering the spirits like dust.
+
+As the battle reached its crescendo, Gojo's Domain Expansion, Unlimited Void, enveloped the battlefield. The void consumed all light and sound, leaving only an endless expanse of darkness. Sukuna's curses were rendered useless, their forms dissipating into nothingness.
+
+Finally, with a surge of energy, Gojo unleashed his most powerful attack: Hollow Purple. A torrent of concentrated curse energy burst forth, illuminating the void with a blinding light.
+
+Sukuna's monstrous form screamed in agony as the attack tore through his body. The King of Curses was reduced to a writhing mass of cursed energy, his consciousness fading.
+
 ## Audio that it created
 [audio.webm](https://github.com/AleenDhar/Youtube-shorts-creation/assets/86429480/d149bcdc-0dda-410e-8ac8-5efda6a0521c)
 
