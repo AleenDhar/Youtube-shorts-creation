@@ -1,6 +1,8 @@
 # YOUTUBE SHORTS CONTENT GENERATION
 Made by: Aleen Dhar and Shivam Singh
 
+## audio
+C:\Users\DG\OneDrive\Desktop\main_projects\Fetch.ai\YouTube Shorts Content Generator\files\audio.mp3
 
 
 ## Environment Setup:
