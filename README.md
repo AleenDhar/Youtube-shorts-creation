@@ -79,5 +79,3 @@ To run the project, use the command:
     pyhton -m poetry run python main.py
     ```
 
-# Special considerations
-
