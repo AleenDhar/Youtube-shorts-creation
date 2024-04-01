@@ -11,7 +11,6 @@ AGENT_MAILBOX_KEY=
 HUGGING_FACE_ACCESS_TOKEN=
 gemini_api_key=
 
-
 elevenlabs_api_key=
 eleven_voice_id=
 
@@ -33,7 +32,7 @@ cloudinary_api_secret=
 1. In the main directory install all dependencies
 
     ```bash
-    poetry install
+    python -m poetry install
     ```
 
 
@@ -41,10 +40,10 @@ cloudinary_api_secret=
 
 To run the project, use the command:
 
-```
-cd src
-poetry run python main.py
-```
+    ```
+    cd src
+    pyhton -m poetry run python main.py
+    ```
 
 # Special considerations
 
