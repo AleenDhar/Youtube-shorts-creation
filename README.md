@@ -1,4 +1,4 @@
-# Stable Diffusion
+# YOUTUBE SHORTS CONTENT GENERATION
 Made by: Aleen Dhar and Shivam Singh
 ## Environment Setup:
 
